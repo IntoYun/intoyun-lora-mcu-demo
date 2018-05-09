@@ -1,0 +1,3 @@
+[submodule "src/intoyun-lora-mcu-sdk"]
+	path = src/intoyun-lora-mcu-sdk
+	url = git@github.com:IntoYun/intoyun-lora-mcu-sdk.git
